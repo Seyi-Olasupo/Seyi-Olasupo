@@ -1,8 +1,6 @@
 ### Hi there 👋, Welcome to my Github Account.
-
-The below infomation describe me in a little form:
 <!-- fs -->
-Here are some ideas to get you started:
+Here are some ideas about me:
 
 - 🔭 I’m a Data Scientist.
 - 🌱 I’m currently working on learning different types of Machine Learning Algorithms for business solutions.
