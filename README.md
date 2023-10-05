@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other data professionals to organise and build awesome projects.
 - 💬 Ask me about data analysis and modeling.
 - 📫 You can also reach me: seyiosp@outlook.com
-- ⚡ Fun fact: Riding bicycle.
+- ⚡ Fun fact: Riding a bicycle.
