@@ -2,7 +2,7 @@
 <!-- fs -->
 Here are some ideas about me:
 
-- 🔭 I’m a Data Scientist.
+- 🔭 I’m a Data Analyst.
 - 🌱 I’m currently working on learning different types of Machine Learning Algorithms for business solutions.
 - 👯 I’m looking to collaborate with other data professionals to organise and build awesome projects.
 - 💬 Ask me about data analysis and modeling.
